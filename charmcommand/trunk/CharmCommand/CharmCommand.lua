@@ -1,3 +1,6 @@
+-- CharmCommand
+-- Version 1.0.0 by Soraia
+
 CharmCommand = LibStub( "AceAddon-3.0" ):NewAddon( "CharmCommand", "AceConsole-3.0" )
 local L = LibStub( "AceLocale-3.0" ):GetLocale( "CharmCommand" )
 
